@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @Ki
-- 👀 I’m interested in DiscordBots
-- 📫 How to reach me on Discord (@suspectki)
+(@suspectki)
